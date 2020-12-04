@@ -1,0 +1,8 @@
+{{- $funcPath := "js/functions.js" }}
+{{- $functions := resources.Get $funcPath | resources.ExecuteAsTemplate $funcPath . }}
+
+{{- $mainScriptPath := "js/index.js" }}
+{{- $main := resources.Get $mainScriptPath | resources.ExecuteAsTemplate $mainScriptPath . }}
+
+{{- $bundle := slice $functions $main | resources.Concat "js/bundle.js" | resources.Minify | resources.Fingerprint "sha512" }}
+<script src="{{ $bundle.Permalink }}"></script>
