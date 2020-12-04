@@ -17,7 +17,7 @@ Je prépare en ce moment deux expositions: l'une à Briare, l'autre à Olivet.
 {{< /column >}}
 {{< column >}}
 
-![diy](/images/pape.png)
+![Michel Just](/images/pape.png)
 
 {{< /column >}}
 {{< /block >}}

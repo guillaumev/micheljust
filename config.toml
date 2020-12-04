@@ -7,6 +7,7 @@ theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of
 # theme = "compose"
 enableGitInfo = true
 publishDir = "docs"
+canonifyURLs = true
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
@@ -15,7 +16,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [[menu.main]]
     name = "Galerie"
     weight = 2
-    url = "/"
+    url = ""
 
 [[menu.main]]
     name = "Contact"
