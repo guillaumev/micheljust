@@ -1,7 +1,6 @@
 ---
 title: "Contact"
 date: 2020-11-23T16:38:03+01:00
-draft: false
 ---
 
 {{< block "grid-2 mt-2" >}}
