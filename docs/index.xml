@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galerie on Michel Just</title>
-    <link>https://guillaumev.github.io/micheljust/</link>
+    <link>http://www.micheljust.fr/</link>
     <description>Recent content in Galerie on Michel Just</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 23 Nov 2020 16:48:03 +0100</lastBuildDate>
     
-	<atom:link href="https://guillaumev.github.io/micheljust/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.micheljust.fr/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
