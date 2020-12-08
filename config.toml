@@ -1,4 +1,4 @@
-baseURL = "http://www.micheljust.fr"
+baseURL = "https://www.micheljust.fr"
 title = "Michel Just"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
