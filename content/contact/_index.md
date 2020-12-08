@@ -14,6 +14,8 @@ Et d'autres petits villages comme Fay-aux-Loges (45), Vitry-aux-Loges(45) ou Cer
 
 Je prépare en ce moment deux expositions: l'une à Briare, l'autre à Olivet.
 
+Pour me contacter: {{< cloakemail "just.michel@free.fr" >}}
+
 {{< /column >}}
 {{< column >}}
 
